@@ -16,7 +16,7 @@ function App() {
   //const [portsari, setPortsari] = useState(true);
   const [vuoro, setVuoro] = useState(1);
   const [voittaja, setVoittaja] = useState("");
-  //kommentti
+
   const peliKenttä = (id)=>{
     // if(portsari)
     switch(id){
